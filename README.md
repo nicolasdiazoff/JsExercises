@@ -25,5 +25,5 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | Category | README |
 | ------ | ------ | ------ |
-| Calculate time interval | Javascript - Math | [/exercise-01/README.md](/exercise-01/README.md) |
+| Calculate time interval | Javascript - Math | [/exercise-01/](/exercise-01/) |
 
