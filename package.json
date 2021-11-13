@@ -1,0 +1,21 @@
+{
+  "name": "jsexercises",
+  "version": "1.0.0",
+  "description": "I will be doing some practice exercises with javascript. You can find math exercises, ordering algorithms and logic exercises",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasdiazoff/JsExercises.git"
+  },
+  "keywords": ["exercises", "javascript", "fundamentals", "math", "algorithms"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasdiazoff/JsExercises/issues"
+  },
+  "homepage": "https://github.com/nicolasdiazoff/JsExercises#readme"
+}
